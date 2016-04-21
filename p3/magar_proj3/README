@@ -1,0 +1,16 @@
+Name: Ashish Magar
+email: amagar1@binghamton.edu
+
+to compile:
+make
+to run:
+./main
+
+All the three algorithms are inside single main file
+
+Order of programs executed
+-Kruskal's
+-Dijkstra's
+-Floyd's
+
+-ref: heap implementation reference, course CS580U heap implementaton by ashish magar (myself)

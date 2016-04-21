@@ -1,0 +1,11 @@
+to compile:
+make
+
+to run:
+strassens:	./stra <input_size>
+
+lcs:		./lcs <string1> <string2>
+
+floyds:		./floyd < input1
+
+tromino:	./tro <value of k>
